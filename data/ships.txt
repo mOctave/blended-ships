@@ -125,7 +125,7 @@ ship "Rawalpindi"
 	sprite "ship/rawalpindi"
 	thumbnail "thumbnail/rawalpindi"
 	attributes
-		category "Utility"
+		category "Heavy Freighter"
 		"cost" 16600000
 		"shields" 8000
 		"hull" 13500
