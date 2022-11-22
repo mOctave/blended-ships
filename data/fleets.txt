@@ -1,0 +1,166 @@
+fleet "Small Southern Merchants"
+	add variant
+		"Rawalpindi"
+
+fleet "Large Southern Merchants"
+	add variant
+		"Rawalpindi"
+		"Freighter"
+	add variant
+		"Rawalpindi"
+		"Argosy"
+	add variant
+		"Rawalpindi" 2
+	add variant
+		"Rawalpindi"
+		"Star Barge"
+		"Shuttle"
+		"Bastion"
+	add variant
+		"Rawalpindi"
+		"Sparrow"
+	add variant
+		"Rawalpindi"
+		"Grackle"
+
+fleet "Small Free Worlds"
+	add variant
+		"Grackle"
+	add variant
+		"Grackle"
+		"Sparrow" 2
+
+fleet "Large Free Worlds"
+	add variant
+		"Eagle"
+	add variant
+		"Eagle"
+		"Sparrow" 2
+	add variant
+		"Eagle"
+		"Bastion"
+	add variant
+		"Eagle"
+		"Hawk"
+	add variant
+		"Eagle"
+		"Grackle"
+
+fleet "Small Militia"
+	add variant
+		"Grackle"
+	add variant
+		"Grackle"
+		"Sparrow" 2
+
+fleet "Large Militia"
+	add variant
+		"Eagle"
+	add variant
+		"Eagle"
+		"Sparrow" 2
+	add variant
+		"Eagle"
+		"Bastion"
+	add variant
+		"Eagle"
+		"Hawk"
+	add variant
+		"Eagle"
+		"Grackle"
+
+fleet "Small Deep Security"
+	add variant
+		"Grackle"
+
+fleet "Small Southern Pirates"
+	add variant 5
+		"Grackle"
+	add variant 2
+		"Grackle"
+		"Sparrow"
+	add variant
+		"Grackle"
+		"Hawk"
+
+fleet "Large Southern Pirates"
+	add variant
+		"Rawalpindi"
+		"Grackle"
+		"Sparrow" 2
+	add variant
+		"Rawalpindi"
+		"Grackle"
+		"Hawk" 2
+	add variant
+		"Rawalpindi"
+		"Grackle"
+		"Fury" 2
+	add variant
+		"Rawalpindi"
+		"Grackle"
+		"Sparrow"
+		"Hawk"
+		"Fury"
+	add variant
+		"Rawalpindi"
+		"Sparrow" 2
+		"Fury"
+	add variant
+		"Rawalpindi"
+		"Sparrow" 2
+		"Hawk"
+	add variant
+		"Rawalpindi"
+		"Sparrow" 2
+		"Fury (Gatling)"
+	add variant
+		"Grackle" 2
+	add variant 2
+		"Eagle"
+	add variant
+		"Eagle"
+		"Sparrow" 2
+	add variant
+		"Eagle"
+		"Grackle"
+		"Sparrow"
+
+fleet "Small Independent"
+	add variant
+		"Grackle"
+	add variant
+		"Grackle"
+		"Sparrow" 2
+
+fleet "Large Independent"
+	add variant
+		"Eagle"
+	add variant
+		"Eagle"
+		"Sparrow" 2
+	add variant
+		"Eagle"
+		"Bastion"
+	add variant
+		"Eagle"
+		"Hawk"
+	add variant
+		"Eagle"
+		"Grackle"
+	add variant
+		"Rawalpindi"
+		"Grackle"
+		"Sparrow" 2
+	add variant
+		"Rawalpindi"
+		"Sparrow" 2
+		"Fury"
+	add variant
+		"Rawalpindi"
+		"Sparrow" 2
+		"Hawk"
+	add variant
+		"Rawalpindi"
+		"Sparrow" 2
+		"Fury (Gatling)"

@@ -1,0 +1,9 @@
+shipyard "All Ships"
+	"Eagle"
+	"Grackle"
+	"Rawalpindi"
+
+shipyard "human plugins"
+	"Eagle"
+	"Grackle"
+	"Rawalpindi"

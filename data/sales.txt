@@ -1,0 +1,36 @@
+shipyard "greenrock"
+	"Eagle"
+	"Rawalpindi"
+
+shipyard "sirius"
+	"Grackle"
+
+planet "Greenrock"
+	add shipyard "greenrock"
+
+planet "Glaze"
+	add shipyard "greenrock"
+
+planet "Smuggler's Den"
+	add shipyard "greenrock"
+
+planet "Wayfarer"
+	add shipyard "greenrock"
+
+planet "New Britain"
+	add shipyard "greenrock"
+
+planet "Sundrinker"
+	add shipyard "greenrock"
+
+planet "Relic"
+	add shipyard "sirius"
+
+planet "Earth"
+	add shipyard "sirius"
+
+planet "Follower"
+	add shipyard "sirius"
+
+planet "Ada"
+	add shipyard "sirius"
