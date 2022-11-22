@@ -1,2 +1,1 @@
-Enter some text that describes your plugin in this file.
-Endless Sky will then display it when the user has your plugin installed and selected.
+Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
