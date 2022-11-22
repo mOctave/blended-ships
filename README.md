@@ -23,6 +23,8 @@ __Heavy Warships:__ Eagle (Falcon + Leviathan)
 __Fighters:__ _none yet_  
 __Drones:__ _none yet_  
 
+Other planned ships include some Korath Autonoma splices, a splice of a Syndicate ship onto a Korath Raider variant, and versions of the Flivver and Shuttle that are not capable of hyperspace travel.
+
 ## Corporations
 
 This plugin adds two new corporations so far: Greenrock Shipyard Ltd. and Sirius Carcinogenics Corporation. The first is a legitimate company based on Greenrock that in no way endorses or supports pirates. The second, however, is a complete joke. They run a small shipyard on Relic where they produce the Grackle, a thoroughly insane ship.
