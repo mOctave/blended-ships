@@ -32,3 +32,8 @@ This plugin adds two new corporations so far: Greenrock Shipyard Ltd. and Sirius
 ## Contributing
 
 Please suggest new ships or report bugs in the issues here or on the Endless Sky Discord server.
+
+## Credits
+
+The Grackle name and splice was suggested by Banana Scone.
+The Rawalpindi splice was suggested by Zoura (Avian Geneticist).
