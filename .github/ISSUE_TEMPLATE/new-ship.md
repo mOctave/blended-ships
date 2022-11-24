@@ -2,7 +2,7 @@
 name: New ship
 about: Suggest a new ship splice
 title: ''
-labels: enhancement
+labels: enhancement, ship
 assignees: mOctave
 
 ---
