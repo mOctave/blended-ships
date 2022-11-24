@@ -23,7 +23,7 @@ __Heavy Warships:__ Eagle (Falcon + Leviathan)
 __Fighters:__ _none yet_  
 __Drones:__ _none yet_  
 
-Other planned ships include some Korath Autonoma splices, a splice of a Syndicate ship onto a Korath Raider variant, and versions of the Flivver and Shuttle that are not capable of hyperspace travel.
+Other planned ships include some Korath Automata splices, a splice of a Syndicate ship onto a Korath Raider variant, and versions of the Flivver and Shuttle that are not capable of hyperspace travel.
 
 ## Corporations
 
