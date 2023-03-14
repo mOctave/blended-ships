@@ -195,3 +195,84 @@ ship "Rawalpindi"
 	engine -20.5 201.5
 	engine 20.5 201.5
 	description "The Greenrock Shipyards Rawalpindi is the most heavily armed freighter money can buy. Rumour is that it's even used by some pirates as a raiding ship. It is named after the HMS Rawalpindi, a legendary armed merchant cruiser that was destroyed on Earth more than a thousand years ago. Although naming something after a destroyed ship does not seem like the best business model, you are assured that, since many people struggle to pronounce the name, let along know of its namesake, there is very little impact on its sales."
+
+ship "Flivver Lo-V"
+	sprite "ship/flivver"
+	thumbnail "thumbnail/flivver"
+	attributes
+		category "Pleasure Craft"
+		"cost" 180000
+		"shields" 800
+		"hull" 150
+		"required crew" 1
+		"bunks" 4
+		"mass" 40
+		"drag" 1.0
+		"heat dissipation" .9
+		"cargo space" 15
+		"outfit space" 130
+		"weapon capacity" 22
+		"engine capacity" 59
+		weapon
+			"blast radius" 16
+			"shield damage" 160
+			"hull damage" 80
+			"hit force" 240
+	outfits
+		"nGVF-CC Fuel Cell"
+		"KP-6 Photovoltaic Array" 2
+		"Supercapacitor"
+		"Outfit Scanner"
+		
+		"A120 Atomic Thruster"
+		"A125 Atomic Steering"
+		"X1100 Ion Reverse Thruster"
+		
+	engine -16.5 26
+	engine 16.5 26
+	leak "leak" 60 50
+	explode "tiny explosion" 10
+	explode "small explosion" 10
+	description "The popularity of the Flivver has led to Lionheart producing a special version called the Flivver Lo-V. This model is not capable of hyperspace travel, nor is it particularly strong, but it is incredibly fast, and a favourite for intrastellar day-trippers. The outfit scanner that comes in the place of a shield generator is enjoyed by rich children all over the galaxy, although it is also often a pain for law enforcement."
+
+ship "Hyperlight Shuttle"
+	sprite "ship/shuttle"
+		"frame time" 4
+		"delay" 14
+		"random start frame"
+	thumbnail "thumbnail/shuttle"
+	attributes
+		category "Pleasure Craft"
+		"cost" 330000
+		"shields" 500
+		"hull" 600
+		"required crew" 1
+		"bunks" 6
+		"mass" 60
+		"drag" 1.3
+		"heat dissipation" .8
+		"fuel capacity" 400
+		"cargo space" 20
+		"outfit space" 120
+		"weapon capacity" 10
+		"engine capacity" 60
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"nGVF-BB Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		
+		"A250 Atomic Thruster"
+		"A255 Atomic Steering"
+		
+	engine -6 30
+	engine 6 30
+	gun 0 -31
+	leak "leak" 60 50
+	explode "tiny explosion" 10
+	explode "small explosion" 5
+	description "The Betelgeuse Shipyards Shuttle has always been popular, and recently they have come out with a new variant on the classic. Although the Hyperlight Shuttle lacks a hyperdrive, it is extraordinarily fast due to its polished hull and atomic engines, and an excellent new model based of an already excellent ship."
