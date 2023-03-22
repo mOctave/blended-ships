@@ -20,41 +20,44 @@ shipyard "Lionheart Basics"
 
 # New sales
 
-shipyard "greenrock"
+shipyard "Greenrock"
 	"Eagle"
 	"Rawalpindi"
 
-shipyard "sirius"
+shipyard "Sirius"
 	"Grackle"
+
+shipyard "Woodchip"
+	"Woodchip"
 
 # Using the new sales
 
 planet "Greenrock"
-	add shipyard "greenrock"
+	add shipyard "Greenrock"
 
 planet "Glaze"
-	add shipyard "greenrock"
+	add shipyard "Greenrock"
 
 planet "Smuggler's Den"
-	add shipyard "greenrock"
+	add shipyard "Greenrock"
 
 planet "Wayfarer"
-	add shipyard "greenrock"
+	add shipyard "Greenrock"
 
 planet "New Britain"
-	add shipyard "greenrock"
+	add shipyard "Greenrock"
 
 planet "Sundrinker"
-	add shipyard "greenrock"
+	add shipyard "Greenrock"
 
 planet "Relic"
-	add shipyard "sirius"
+	add shipyard "Sirius"
 
 planet "Earth"
-	add shipyard "sirius"
+	add shipyard "Sirius"
 
 planet "Follower"
-	add shipyard "sirius"
+	add shipyard "Sirius"
 
 planet "Ada"
-	add shipyard "sirius"
+	add shipyard "Sirius"
