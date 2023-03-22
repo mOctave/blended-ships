@@ -19,7 +19,7 @@ __Utility Ships:__ Grackle (Blackbird + Raven)
 __Interceptors:__ _none yet_  
 __Light Warships:__ _none yet_  
 __Medium Warships:__ _none yet_  
-__Heavy Warships:__ Eagle (Falcon + Leviathan)  
+__Heavy Warships:__ Eagle (Falcon + Leviathan), Woodchip (Palavret + Splinter)  
 __Fighters:__ _none yet_  
 __Drones:__ _none yet_  
 __Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle
@@ -28,7 +28,7 @@ Other planned ships include some Korath Automata splices, a splice of a Syndicat
 
 ## Corporations
 
-This plugin adds two new corporations so far: Greenrock Shipyard Ltd. and Sirius Pyrotechnics Corporation. The first is a legitimate company based on Greenrock that in no way endorses or supports pirates. The second, however, is a complete joke. They run a small shipyard on Relic where they produce the Grackle, a thoroughly insane ship.
+This plugin adds three new corporations so far: Greenrock Shipyard Ltd. and Sirius Pyrotechnics Corporation. The first is a legitimate company based on Greenrock that in no way endorses or supports pirates. The second, however, is a complete joke. They run a small shipyard on Relic where they produce the Grackle, a thoroughly insane ship. Finally, there is an unnamed engineering firm that built the Woodchip.
 
 ## Contributing
 
