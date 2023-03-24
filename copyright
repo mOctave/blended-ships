@@ -5,7 +5,7 @@ Source: https://github.com/mOctave/blended-ships
 
 Files: *
 Copyright: mOctave <moctave31415@gmail.com>
-License: AGPL-3+
+License: AGPL-3.0-or-later
 
 Files:
  icon*.png
