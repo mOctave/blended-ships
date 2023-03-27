@@ -18,6 +18,9 @@ shipyard "Lionheart Basics"
 #shipyard "Betelgeuse Basics"
 	"Hyperlight Shuttle"
 
+shipyard "Navy Advanced"
+	"Star General"
+
 # New sales
 
 shipyard "Greenrock"

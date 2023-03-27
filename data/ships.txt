@@ -205,6 +205,72 @@ ship "Rawalpindi"
 	"final explode" "final explosion large"
 	description "The Greenrock Shipyards Rawalpindi is the most heavily armed freighter money can buy. Rumour is that it's even used by some pirates as a raiding ship. It is named after the HMS Rawalpindi, a legendary armed merchant cruiser that was destroyed on Earth more than a thousand years ago. Although naming something after a destroyed ship does not seem like the best business model, you are assured that, since many people struggle to pronounce the name, let along know of its namesake, there is very little impact on its sales."
 
+
+ship "Star General"
+	sprite "ship/star general"
+	thumbnail "thumbnail/star general"
+	attributes
+		category "Space Liner"
+		licenses
+			Navy
+		"cost" 7780000
+		"shields" 6000
+		"hull" 3900
+		"required crew" 36
+		"bunks" 110
+		"mass" 290
+		"drag" 5.8
+		"heat dissipation" .6
+		"fuel capacity" 1000
+		"cargo space" 55
+		"outfit space" 500
+		"weapon capacity" 190
+		"engine capacity" 120
+		weapon
+			"blast radius" 99
+			"shield damage" 9900
+			"hull damage" 4950
+			"hit force" 14850
+	outfits
+		"Torpedo Launcher" 2
+		"Torpedo" 60
+		"Meteor Missile Launcher" 5
+		"Meteor Missile" 150
+
+		"Heavy Anti-Missile Turret" 2
+
+		"KP-6 Photovoltaic Array" 6
+		"LP072a Battery Pack"
+
+		"D94-YV Shield Generator"
+		"Large Radar Jammer"
+
+		"Luxury Accommodations"
+		"Brig"
+
+		"A250 Atomic Thruster"
+		"A375 Atomic Steering"
+
+		"Scram Drive"
+
+	gun -7 -131.5 "Torpedo Launcher"
+	gun 7 -131.5 "Torpedo Launcher"
+	gun -27 -86 "Meteor Missile Launcher"
+	gun 27 -86 "Meteor Missile Launcher"
+	gun -22 -86 "Meteor Missile Launcher"
+	gun 22 -86 "Meteor Missile Launcher"
+	gun 0.5 -101 "Meteor Missile Launcher"
+	turret -23 20.5 "Heavy Anti-Missile Turret"
+	turret 23 20.5 "Heavy Anti-Missile Turret"
+	engine -19.5 143
+	engine 19.5 143
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 40
+	explode "large explosion" 10
+	"final explode" "final explosion medium"
+	description "Recently, the Republic has had increasingly difficult troubles with pirates on the fringes of human space. Rather than increase funding to the Navy, policy makers instead decided to fund a new class of ship, assembled out of Star Queen and Rainmaker parts. The Star General is the result: it is slightly less agile than the Star Queen and has slightly less capacity, but is more heavily armoured and able to easily fend off small numbers of pirates with its impressive array of missile launchers. The Republic uses the Star General as a secure luxury transport, and it is also made available to a handful of individuals that have earned the Republic's trust."
+
 ship "Woodchip"
 	sprite "ship/woodchip"
 	thumbnail "thumbnail/woodchip"
@@ -224,10 +290,10 @@ ship "Woodchip"
 		"weapon capacity" 263
 		"engine capacity" 80
 		weapon
-			"blast radius" 189
-			"shield damage" 1890
-			"hull damage" 945
-			"hit force" 2835
+			"blast radius" 180
+			"shield damage" 1800
+			"hull damage" 900
+			"hit force" 2700
 	outfits
 		"Proton Gun" 4
 		"Blaster Turret" 2
@@ -278,6 +344,8 @@ ship "Woodchip"
 	explode "huge explosion" 4
 	"final explode" "final explosion large"
 	description "The Woodchip, designed by engineers working on Canyon, is an absolutely horrible ship. Although it is reasonably powerful, it is exorbitantly expensive and painfully slow-moving, and has been considered a crime against humanity because each Woodchip contains a jump drive which could have been used in the war against the Pug. The only redeeming feature of this ship - and its main selling point - is the jump drive at its core, taken along with the rest of the raiding ship that went into making it. After some deliberation, the PR manager of the firm that manufactured these ships demanded that the extra engine lobes get removed, and he got his way before being summarily dismissed the day before the company went bankrupt from legal fees."
+
+# Pleasure Craft
 
 ship "Flivver Lo-V"
 	sprite "ship/flivver"

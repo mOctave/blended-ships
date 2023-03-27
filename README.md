@@ -12,7 +12,7 @@ _The realistic spliced ship plugin_
 Three ships currently exist in this plugin.
 
 __Transports:__ _none yet_  
-__Space Liners:__ _none yet_  
+__Space Liners:__ Star General (Star Queen + Rainmaker)  
 __Light Freighters:__ _none yet_  
 __Heavy Freighters:__ Rawalpindi (Bulk Freighter + Protector)  
 __Utility Ships:__ Grackle (Blackbird + Raven)  
@@ -38,3 +38,4 @@ Please suggest new ships or report bugs in the issues here or on the Endless Sky
 
 The Grackle name and splice was suggested by Banana Scone.
 The Rawalpindi splice was suggested by Zoura (Avian Geneticist).
+The Star General splice was suggested by Ebreus.

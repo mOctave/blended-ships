@@ -177,3 +177,21 @@ fleet "Large Independent"
 		"Rawalpindi"
 		"Sparrow" 2
 		"Fury (Gatling)"
+
+fleet "Republic Logistics"
+	add variant
+		"Star General"
+		"Gunboat"
+	add variant
+		"Star General"
+		"Frigate"
+	add variant
+		"Star General"
+		"Rainmaker"
+	add variant
+		"Star General" 2
+		"Cruiser"
+	add variant
+		"Star General" 2
+		"Gunboat" 2
+		"Rainmaker"
