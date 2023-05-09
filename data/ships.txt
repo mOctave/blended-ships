@@ -26,7 +26,7 @@ ship "Eagle"
 		"heat dissipation" .6
 		"fuel capacity" 500
 		"cargo space" 20
-		"outfit space" 605
+		"outfit space" 606
 		"weapon capacity" 265
 		"engine capacity" 135
 		weapon
@@ -90,7 +90,7 @@ ship "Grackle"
 		"heat dissipation" .85
 		"fuel capacity" 900
 		"cargo space" 60
-		"outfit space" 400
+		"outfit space" 405
 		"weapon capacity" 100
 		"engine capacity" 138
 		weapon
@@ -344,6 +344,61 @@ ship "Woodchip"
 	explode "huge explosion" 4
 	"final explode" "final explosion large"
 	description "The Woodchip, designed by engineers working on Canyon, is an absolutely horrible ship. Although it is reasonably powerful, it is exorbitantly expensive and painfully slow-moving, and has been considered a crime against humanity because each Woodchip contains a jump drive which could have been used in the war against the Pug. The only redeeming feature of this ship - and its main selling point - is the jump drive at its core, taken along with the rest of the raiding ship that went into making it. After some deliberation, the PR manager of the firm that manufactured these ships demanded that the extra engine lobes get removed, and he got his way before being summarily dismissed the day before the company went bankrupt from legal fees."
+
+
+ship "Model 192"
+	sprite "ship/model 192"
+	thumbnail "thumbnail/model 192"
+	attributes
+		category "Medium Warship"
+		"cost" 31785000
+		"shields" 68400
+		"hull" 19700
+		"automaton" 1
+		"crew equivalent" 88
+		"mass" 860
+		"drag" 14.1
+		"heat dissipation" 1.0
+		"fuel capacity" 400
+		"cargo space" 64
+		"outfit space" 787
+		"weapon capacity" 368
+		"engine capacity" 132
+		"self destruct" .78
+		"ramscoop" 3
+		"weapon"
+			"blast radius" 330
+			"shield damage" 5000
+			"hull damage" 2500
+			"blast radius" 7500
+
+	outfits
+		"Cluster Mine Layer" 3
+		"Cluster Mine" 51
+
+		"Shield Disruptor Turret" 3
+		"Husk-Slice Turret" 2
+
+		"Double Plasma Core"
+		"Generator (Furnace Class)"
+		"Systems Core (Medium)"
+		"Reasoning Node" 7
+		"Thruster (Planetary Class)"
+		"Steering (Planetary Class)"
+		"Hyperdrive"
+
+	gun 0 -15 "Cluster Mine Layer"
+	gun -7 -271 "Cluster Mine Layer"
+	gun 7 -271 "Cluster Mine Layer"
+	turret -30.5 -51 "Shield Disruptor Turret"
+	turret 4.5 -195 "Husk-Slice Turret"
+	turret 28.5 29 "Shield Disruptor Turret"
+	turret -33 140.5 "Husk-Slice Turret"
+	turret 0.5 -2 "Shield Disruptor Turret"
+	engine -14 285
+	engine 14 285
+	description "While Mereti automata usually progress perfectly fine in their evolution, there are occasionally errors that can compound insanely quickly and produce some very war drones, nothing like the normal progression. These ships tend to be inefficient and weak for their size, but also mostly hollow, allowing them to be unusually light. 
+	description "For some unknown reason, one of these abberations, the Model 192, is far more common than all the rest."
 
 # Pleasure Craft
 
