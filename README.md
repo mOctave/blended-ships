@@ -9,7 +9,7 @@ _The realistic spliced ship plugin_
 
 ## Ships
 
-Three ships currently exist in this plugin.
+The follow ships currently exist in this plugin:
 
 __Transports:__ _none yet_  
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
@@ -20,11 +20,11 @@ __Interceptors:__ _none yet_
 __Light Warships:__ _none yet_  
 __Medium Warships:__ Model 192 (Model 64 + Model 128)  
 __Heavy Warships:__ Eagle (Falcon + Leviathan), Woodchip (Palavret + Splinter)  
-__Fighters:__ _none yet_  
+__Fighters:__ Model 2 (Model 8 kitbash)
 __Drones:__ _none yet_  
 __Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle
 
-Other planned ships include some Korath Automata splices, a splice of a Syndicate ship onto a Korath Raider variant, and versions of the Flivver and Shuttle that are not capable of hyperspace travel.
+More human and alien ships are planned.
 
 ## Corporations
 
