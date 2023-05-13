@@ -20,7 +20,7 @@ __Interceptors:__ _none yet_
 __Light Warships:__ _none yet_  
 __Medium Warships:__ Model 192 (Model 64 + Model 128)  
 __Heavy Warships:__ Eagle (Falcon + Leviathan), Woodchip (Palavret + Splinter)  
-__Fighters:__ Model 2 (Model 8 kitbash)
+__Fighters:__ Model 2 (Model 8 kitbash)  
 __Drones:__ _none yet_  
 __Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle
 
