@@ -360,6 +360,8 @@ ship "Model 2"
 		"heat dissipation" 1.7
 		"cargo space" 11
 		"outfit space" 100
+		"thrust" 0.2
+		"turn" 5
 		"weapon capacity" 59
 		"self destruct" .9
 		"weapon"
