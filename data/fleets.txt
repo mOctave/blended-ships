@@ -196,6 +196,18 @@ fleet "Republic Logistics"
 		"Gunboat" 2
 		"Rainmaker"
 
+fleet "Small Hai Merchant (Human)"
+	add variant
+		"Ant"
+
+fleet "Small Hai Merchant (Sympathizers)"
+	add variant
+		"Ant"
+
+fleet "Small Hai Merchant (Human)"
+	add variant
+		"Ant"
+
 fleet "Large Kor Mereti"
 	add variant
 		"Model 192"
