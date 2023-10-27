@@ -11,7 +11,7 @@ _The realistic spliced ship plugin_
 
 The follow ships currently exist in this plugin:
 
-__Transports:__ _none yet_  
+__Transports:__ Catamaran (Clipper + Shuttle)  
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
 __Light Freighters:__ Ant (Aphid + Flea)  
 __Heavy Freighters:__ Rawalpindi (Bulk Freighter + Protector)  
@@ -28,7 +28,7 @@ More human and alien ships are planned.
 
 ## Corporations
 
-This plugin adds three new corporations so far: Greenrock Shipyard Ltd. and Sirius Pyrotechnics Corporation. The first is a legitimate company based on Greenrock that in no way endorses or supports pirates. The second, however, is a complete joke. They run a small shipyard on Relic where they produce the Grackle, a thoroughly insane ship. Finally, there is an unnamed engineering firm that built the Woodchip.
+This plugin adds several new corporations: Greenrock Shipyard Ltd, Sirius Pyrotechnics Corporation, and Tomcat Shipping. The first is a legitimate company based on Greenrock that in no way endorses or supports pirates. The second, however, is a complete joke. They run a small shipyard on Relic where they produce the Grackle, a thoroughly insane ship. Tomcat Shipping was created to produce the Catamaran, and would like to assure you that they are not at all obsessed with cats and that the "ears" on the Catamaran are a necessary aspect of the ship for atmospheric stability. Finally, there is an unnamed engineering firm that built the Woodchip.
 
 ## Contributing
 
