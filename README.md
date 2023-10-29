@@ -18,7 +18,7 @@ __Heavy Freighters:__ Rawalpindi (Bulk Freighter + Protector)
 __Utility Ships:__ Grackle (Blackbird + Raven)  
 __Interceptors:__ _none yet_  
 __Light Warships:__ _none yet_  
-__Medium Warships:__ Model 192 (Model 64 + Model 128)  
+__Medium Warships:__ Model 192 (Model 64 + Model 128), Sunthief (Firebird + Raven)  
 __Heavy Warships:__ Eagle (Falcon + Leviathan), Woodchip (Palavret + Splinter)  
 __Fighters:__ Model 2 (Model 8 kitbash)  
 __Drones:__ _none yet_  
@@ -36,7 +36,10 @@ Please suggest new ships or report bugs in the issues here or on the Endless Sky
 
 ## Credits
 
-The Grackle name and splice was suggested by Banana Scone.
-The Rawalpindi splice was suggested by Zoura (Avian Geneticist).
-The Star General splice was suggested by Ebreus.
-The Ant splice was inspired by Zoura (Avian Geneticist).
+The Grackle name and splice was suggested by Banana Scone.  
+The Rawalpindi splice was suggested by Zoura (Avian Geneticist).  
+The Star General splice was suggested by Ebreus.  
+The Ant splice was inspired by Zoura (Avian Geneticist).  
+The Sunthief splice was suggested by Zoura (Avian Geneticist) and Darcy Manoel.  
+
+For a complete list of image credits, see [the copyright file](copyright).  
