@@ -15,7 +15,7 @@ __Transports:__ Catamaran (Clipper + Shuttle)
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
 __Light Freighters:__ Ant (Aphid + Flea)  
 __Heavy Freighters:__ Rawalpindi (Bulk Freighter + Protector)  
-__Utility Ships:__ Grackle (Blackbird + Raven)  
+__Utility Ships:__ Grackle (Blackbird + Raven), Caterpillar (Bulk Freighter kitbash)  
 __Interceptors:__ _none yet_  
 __Light Warships:__ _none yet_  
 __Medium Warships:__ Model 192 (Model 64 + Model 128), Sunthief (Firebird + Raven)  
