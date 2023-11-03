@@ -14,7 +14,7 @@ The follow ships currently exist in this plugin:
 __Transports:__ Catamaran (Clipper + Shuttle)  
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
 __Light Freighters:__ Ant (Aphid + Flea)  
-__Heavy Freighters:__ Rawalpindi (Bulk Freighter + Protector)  
+__Heavy Freighters:__ Rawalpindi (Container Transport + Protector)  
 __Utility Ships:__ Grackle (Blackbird + Raven), Caterpillar (Bulk Freighter kitbash)  
 __Interceptors:__ _none yet_  
 __Light Warships:__ _none yet_  
