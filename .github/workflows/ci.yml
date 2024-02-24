@@ -1,4 +1,4 @@
-name: CI
+name: Continuous Integration
 
 on:
   push:
@@ -8,13 +8,13 @@ on:
     types: [opened, synchronize]
 
 concurrency:
-  group: ${{ github.ref }}-${{ github.workflow }}-${{ github.event_name }}
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
   cancel-in-progress: true
 
 jobs:
   changed:
     name: Changed
-    uses: ./.github/workflows/changes.yaml
+    uses: ./.github/workflows/changes.yml
 
   test-parse:
     name: Data Files
