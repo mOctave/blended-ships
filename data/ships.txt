@@ -429,7 +429,7 @@ ship "Rawalpindi"
 			"hit force" 3225
 	outfits
 		"Torpedo Launcher" 2
-		"Topedo Storage Rack" 2
+		"Torpedo Storage Rack" 2
 		"Torpedo" 90
 
 		"Heavy Laser Turret"
