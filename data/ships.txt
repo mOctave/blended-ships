@@ -145,7 +145,9 @@ ship "Caterpillar"
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 45
 		"Laser Turret" 3
-		"Heavy Anti-Missile Turret" 2
+		"Proton Turret"
+		"Heavy Anti-Missile Turret"
+		"Anti-Missile Turret"
 
 		"KP-6 Photovoltaic Array"
 		"nGVF-BB Fuel Cell"
@@ -161,8 +163,8 @@ ship "Caterpillar"
 
 	gun -22 -179 "Sidewinder Missile Launcher"
 	gun 22 -178.5 "Sidewinder Missile Launcher"
-	turret 0 -68.5 "Heavy Anti-Missile Turret"
-	turret 0 6.5 "Laser Turret"
+	turret 0 -68.5 "Anti-Missile Turret"
+	turret 0 6.5 "Proton Turret"
 	turret 0 81.5 "Heavy Anti-Missile Turret"
 	turret -33.5 175 "Laser Turret"
 	turret 33.5 175 "Laser Turret"
