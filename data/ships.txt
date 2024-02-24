@@ -144,7 +144,7 @@ ship "Caterpillar"
 	outfits
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 45
-		"Laser Turret" 3
+		"Laser Turret" 2
 		"Proton Turret"
 		"Heavy Anti-Missile Turret"
 		"Anti-Missile Turret"
