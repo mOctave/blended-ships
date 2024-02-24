@@ -142,7 +142,7 @@ ship "Caterpillar"
 			"hit force" 1800
 
 	outfits
-		"Sidewinder Missile Launcher"
+		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 45
 		"Laser Turret" 3
 		"Heavy Anti-Missile Turret" 2
@@ -432,7 +432,7 @@ ship "Rawalpindi"
 		"Torpedo Storage Rack" 2
 		"Torpedo" 90
 
-		"Heavy Laser Turret"
+		"Proton Turret"
 		"Quad Blaster Turret" 4
 		"Heavy Anti-Missile Turret" 2
 
@@ -458,7 +458,7 @@ ship "Rawalpindi"
 	turret -67 -139.5 "Quad Blaster Turret"
 	turret 67 -139.5 "Quad Blaster Turret"
 	turret 0 -84.5 "Heavy Anti-Missile Turret"
-	turret 0 15.5 "Heavy Laser Turret"
+	turret 0 15.5 "Proton Turret"
 	turret 0 115.5 "Heavy Anti-Missile Turret"
 	turret -67 170.5 "Quad Blaster Turret"
 	turret 67 170.5 "Quad Blaster Turret"
