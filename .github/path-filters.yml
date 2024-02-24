@@ -1,0 +1,11 @@
+workflows:
+  - '.github/workflows/**'
+data_files:
+  - 'data/**'
+documentation:
+  - '*.md'
+  - '**/*.md'
+  - 'about.txt'
+  - 'plugin.txt'
+  - 'copyright'
+  - 'LICENSE

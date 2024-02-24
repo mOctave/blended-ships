@@ -12,9 +12,14 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  test-parse-world-forge:
+  changed:
+    name: Changed
+    uses: ./.github/workflows/changes.yaml
+
+  test-parse:
     name: Data Files
-    runs-on: ubuntu-latest
+    runs-on: windows-2022
+    if: ${{ needs.changed.outputs.workflows == 'true' || needs.changed.outputs.data_files == 'true' }}
     steps:
     - uses: warp-core/endless-sky-test-parse@master
 
