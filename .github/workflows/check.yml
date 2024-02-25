@@ -1,0 +1,30 @@
+name: Check
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  changed:
+    name: Changed
+    uses: ./.github/workflows/changes.yaml
+
+  spellcheck:
+    name: Spelling
+    needs: changed
+    if: ${{ needs.changed.outputs.workflows == 'true' || needs.changed.outputs.data_files == 'true' || needs.changed.outputs.documentation == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        show-progress: false
+    - uses: codespell-project/actions-codespell@v2
+      with:
+        path: ./*.md
+        exclude_file: .codespell/exclude
+        ignore_words_file: .codespell/ignored-words
