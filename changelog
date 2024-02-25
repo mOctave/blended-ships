@@ -1,0 +1,35 @@
+Version 0.3.0:
+  * First stable release
+  * New spliced ships:
+    * Catamaran
+    * Caterpillar
+    * Sunthief
+  * Bugfixes:
+    * Fixed issues where the Rawalpindi was labelled as a Bulk Freighter splice instead of a Container Transport one
+    * Caught several typos
+    * Replaced a whole bunch of images that had odd widths and heights
+  * Compatability:
+    * Switched over the all-content compatability file to use the latest Omnis sales
+    * Wrote a plugin.txt file to fit with the newest standards
+  * Other changes:
+    * Reordered everything in ships.txt and fleets.txt
+
+Version 0.2.0:
+  * New spliced ships:
+    * Human:
+      * Star General
+    * Others:
+      * Ant
+      * Model 2
+      * Model 192
+
+Version 0.1.0:
+  * Initial release
+  * New spliced ships:
+    * Eagle
+    * Grackle
+    * Rawalpindi
+    * Woodchip
+  * Introduction of pleasure craft variants of existing ships:
+    * Flivver Lo-V
+    * Hyperlight Shuttle
