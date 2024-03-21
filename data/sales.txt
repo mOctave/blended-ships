@@ -36,7 +36,7 @@ shipyard "Northern Pirates"
 
 shipyard "Syndicate Advanced"
 	"Caterpillar"
-	"Reaver"
+	"Trident"
 
 # New sales
 

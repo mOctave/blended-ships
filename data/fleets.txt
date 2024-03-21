@@ -42,16 +42,16 @@ fleet "Small Core Merchants"
 	add variant 10
 		"Catamaran"
 	add variant 10
-		"Reaver"
+		"Trident"
 	add variant 3
-		"Reaver"
+		"Trident"
 		"Wasp"
 
 fleet "Large Core Merchants"
 	add variant 5
-		"Reaver"
+		"Trident"
 	add variant 5
-		"Reaver" 2
+		"Trident" 2
 		"Quicksilver"
 
 fleet "Paradise Merchants"

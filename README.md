@@ -13,7 +13,7 @@ The follow ships currently exist in this plugin:
 
 __Transports:__ Catamaran (Clipper + Shuttle)  
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
-__Light Freighters:__ Ant (Aphid + Flea), Reaver (Sunder kitbash)  
+__Light Freighters:__ Ant (Aphid + Flea), Trident (Sunder kitbash)  
 __Heavy Freighters:__ Rawalpindi (Container Transport + Protector)  
 __Utility Ships:__ Grackle (Blackbird + Raven), Caterpillar (Bulk Freighter kitbash)  
 __Interceptors:__ _none yet_  
@@ -34,12 +34,6 @@ This plugin adds several new corporations: Greenrock Shipyard Ltd, Sirius Pyrote
 
 Please suggest new ships or report bugs in the issues here or on the Endless Sky Discord server.
 
-## Credits
+For the credits, see [here](credits.txt).
 
-The Grackle name and splice was suggested by Banana Scone.  
-The Rawalpindi splice was suggested by Zoura (Avian Geneticist).  
-The Star General splice was suggested by Ebreus.  
-The Ant splice was inspired by Zoura (Avian Geneticist).  
-The Sunthief splice was suggested by Zoura (Avian Geneticist) and Darcy Manoel.  
-
-For a complete list of image credits, see [the copyright file](copyright).  
+For a complete list of asset credits, licensing information, and so forth, see [the copyright file](copyright).
