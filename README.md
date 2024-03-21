@@ -13,7 +13,7 @@ The follow ships currently exist in this plugin:
 
 __Transports:__ Catamaran (Clipper + Shuttle)  
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
-__Light Freighters:__ Ant (Aphid + Flea)  
+__Light Freighters:__ Ant (Aphid + Flea), Reaver (Sunder kitbash)  
 __Heavy Freighters:__ Rawalpindi (Container Transport + Protector)  
 __Utility Ships:__ Grackle (Blackbird + Raven), Caterpillar (Bulk Freighter kitbash)  
 __Interceptors:__ _none yet_  
@@ -22,7 +22,7 @@ __Medium Warships:__ Model 192 (Model 64 + Model 128), Sunthief (Firebird + Rave
 __Heavy Warships:__ Eagle (Falcon + Leviathan), Woodchip (Palavret + Splinter)  
 __Fighters:__ Model 2 (Model 8 kitbash)  
 __Drones:__ _none yet_  
-__Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle
+__Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle, Partisan
 
 More human and alien ships are planned.
 
