@@ -1,3 +1,18 @@
+Version 1.0.0:
+  * First major release
+  * New spliced ships:
+    * Barquentine
+    * Hornet
+    * Trident
+  * New pleasure craft, the Partisan
+  * Bugfixes:
+    * Caught more typos
+    * Fixed some loadout errors with the Rawalpindi and Caterpillar
+  * Other changes:
+    * Added a credits.txt file and moved the credits out of the README
+    * Added the Enforcer to the Greenrock
+    * Set up GitHub actions, including Codespell, Dependabot, and warp_core's CI checks
+
 Version 0.3.0:
   * First stable release
   * New spliced ships:
