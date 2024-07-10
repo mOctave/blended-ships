@@ -1,3 +1,10 @@
+Version 1.1.0:
+  * Compatability:
+    * Rebalanced all ship masses in accordance with the chnages from ES 0.10.7
+  * Other changes:
+    * Added new images for all three pleasure craft
+    * Minor refactors and typo fixes
+
 Version 1.0.0:
   * First major release
   * New spliced ships:
