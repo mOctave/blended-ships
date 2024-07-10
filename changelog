@@ -3,6 +3,8 @@ Version 1.1.0:
     * Rebalanced all ship masses in accordance with the chnages from ES 0.10.7
   * Other changes:
     * Added new images for all three pleasure craft
+    * Removed the gun ports from the Hyperlight Shuttle and Partisan
+    * Tweaked a couple of descriptions
     * Minor refactors and typo fixes
 
 Version 1.0.0:
