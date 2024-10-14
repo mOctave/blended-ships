@@ -399,6 +399,52 @@ fleet "Small Hai Merchant (Human)"
 	add variant
 		"Ant"
 
+fleet "Small Old Houses"
+	add variant 2
+		"Khosakaska"
+
+fleet "Large Old Houses"
+	add variant 4
+		"Khosakaska"
+		"Veusade" 3
+		"Kaskhorade" 2
+	add variant 2
+		"Aaulqra"
+		"Khosakaska"
+		"Kaskhorade"
+
+fleet "Small New Houses"
+	add variant 2
+		"Khosakaska"
+
+
+fleet "Large New Houses"
+	add variant
+		"Khosakaska"
+		"Veusade" 6
+		"Kaskhorade"
+	add variant
+		"Aaulqra"
+		"Khosakaska" 2
+	add variant
+		"Khosakaska"
+		"Veusade" 2
+		"Vujlet" 2
+	add variant 2
+		"Kaskhorade"
+		"Khosakaska" 2
+
+fleet "Aqrabe Home"
+	add variant
+		"Khosakaska"
+
+fleet "Chydiyi Home"
+	add variant 2
+		"Khosakaska"
+	add variant
+		"Khosakaska" 2
+		"Veusade"
+
 fleet "Large Kor Mereti"
 	add variant
 		"Model 192"
@@ -421,6 +467,7 @@ fleet "Model 2 Swarm"
 		"Model 2" 5
 	variant 1
 		"Model 2" 6
+
 
 # Add Fleets to Systems
 

@@ -38,6 +38,9 @@ shipyard "Syndicate Advanced"
 	"Caterpillar"
 	"Trident"
 
+shipyard "High Houses Heavy"
+	"Khosakaska"
+
 # New sales
 
 shipyard "Greenrock"
