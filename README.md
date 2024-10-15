@@ -10,7 +10,7 @@ _The realistic spliced ship plugin_
 ![image](https://badgen.net/github/release/mOctave/blended-ships)
 ![image](https://badgen.net/github/license/mOctave/blended-ships)
 ![image](https://badgen.net/github/assets-dl/mOctave/blended-ships)
-![image](https://badgen.net/github/milestones/mOctave/blended-ships/1.1)
+![image](https://badgen.net/github/milestones/mOctave/blended-ships/1.2)
 ![image](https://badgen.net/github/checks/mOctave/blended-ships/main/spellcheck)
 ![image](https://badgen.net/github/checks/mOctave/blended-ships/main/test-parse?label=parsing)
 
