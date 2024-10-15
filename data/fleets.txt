@@ -387,6 +387,20 @@ fleet "Pleasure Craft Transport"
 
 # Alien Fleets
 
+fleet "Gegno Miners"
+	add variant 3
+		"Moissanite"
+	add variant
+		"Moissanite"
+		"Gypsum"
+
+fleet "Gegno Cargo"
+	add variant
+		"Moissanite"
+	add variant
+		"Moissanite"
+		"Granofel"
+
 fleet "Small Hai Merchant (Human)"
 	add variant
 		"Ant"

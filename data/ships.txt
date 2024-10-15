@@ -693,6 +693,65 @@ ship "Model 192" # Model 64 + Model 128
 	description "While Mereti automata usually progress perfectly fine in their evolution, there are occasionally errors that can compound insanely quickly and produce some very war drones, nothing like the normal progression. These ships tend to be inefficient and weak for their size, but also mostly hollow, allowing them to be unusually light." 
 	description "For some unknown reason, one of these aberrations, the Model 192, is far more common than all the rest."
 
+ship "Moissanite" # Conglomerate + Corundum
+	sprite "ship/gegno moissanite"
+	thumbnail "thumbnail/gegno moissanite"
+	attributes
+		category "Heavy Freighter"
+		licenses
+			"Gegno Civilian"
+		"cost" 6415000
+		"shields" 0
+		"hull" 12400
+		"required crew" 16
+		"bunks" 42
+		"mass" 1568
+		"drag" 25.8
+		"heat dissipation" 0.45
+		"fuel capacity" 400
+		"cargo space" 335
+		"outfit space" 337
+		"weapon capacity" 84
+		"engine capacity" 146
+		weapon
+			"blast radius" 145
+			"shield damage" 1120
+			"hull damage" 1360
+			"hit force" 1930
+	outfits
+		"Excavator" 2
+		"C7 Brawl Cell"
+		"C3 Scrap Cell"
+		"R02 Battlezone Battery"
+		
+		"RG18 Torch Thruster"
+		"RG15 Torch Thruster"
+		"RG18 Torch Steering"
+		"RG15 Torch Steering"
+		"Hyperdrive"
+
+	engine -34.5 224
+	engine 34.5 224
+	engine 15 224 0.75
+	engine -15 224 0.75
+	"steering engine" -58 -166
+		right
+	"steering engine" 58 -166
+		left
+	gun -9 -239 "Excavator"
+		over
+	gun 9 -239 "Excavator"
+		over
+	leak "leak" 30 40
+	leak "flame" 80 20
+	explode "huge explosion" 8
+	explode "large explosion" 28
+	explode "medium explosion" 40
+	explode "small explosion" 32
+	explode "tiny explosion" 6
+	"final explode" "final explosion large"
+	description `Recently, some enterprising Gegno have begun to experiment with traditional ship designs. One of the results has been the Moissanite, a large mining platform based off of the hulls of the Conglomerate and Corundum. The Moissanite is slow and cumbersome, but is capable of mounting twin Excavator Drills, making it a mining fleet in and of itself.`
+
 ship "Rawalpindi" # Container Transport + Protector
 	sprite "ship/rawalpindi"
 	thumbnail "thumbnail/rawalpindi"

@@ -32,6 +32,7 @@ shipyard "All Ships"
 	"Khosakaska"
 	"Model 2"
 	"Model 192"
+	"Moissanite"
 
 shipyard "human plugin"
 	"Barquentine"
@@ -47,6 +48,9 @@ shipyard "human plugin"
 	"Flivver Lo-V"
 	"Hyperlight Shuttle"
 	"Partisan"
+
+shipyard "gegno plugin"
+	"Moissanite"
 
 shipyard "hai plugin"
 	"Ant"
