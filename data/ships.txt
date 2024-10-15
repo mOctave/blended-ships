@@ -713,6 +713,7 @@ ship "Moissanite" # Conglomerate + Corundum
 		"outfit space" 337
 		"weapon capacity" 84
 		"engine capacity" 146
+		"drill port" 2
 		weapon
 			"blast radius" 145
 			"shield damage" 1120
