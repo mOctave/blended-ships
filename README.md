@@ -16,7 +16,7 @@ _The realistic spliced ship plugin_
 
 ## Ships
 
-The follow ships currently exist in this plugin:
+The following ships currently exist in this plugin:
 
 __Transports:__ Catamaran (Clipper + Shuttle)  
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
