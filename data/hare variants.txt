@@ -49,7 +49,7 @@ ship "Hare" "Hare (Long Haul)"
 		"Fuel Pod" 2
 		"Ramscoop"
 
-		"X3700 Ion Thruster"
+		"X2700 Ion Thruster"
 		"X3200 Ion Steering"
 
 		"Hyperdrive"
