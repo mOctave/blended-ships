@@ -129,9 +129,6 @@ planet "Shroud"
 planet "Smuggler's Den"
 	add shipyard "Greenrock"
 
-planet "Sundrinker"
-	add shipyard "Greenrock"
-
 planet "Sunracer"
 	add shipyard "Prograde"
 
@@ -139,4 +136,7 @@ planet "Tinker"
 	add shipyard "Tomcat"
 
 planet "Wayfarer"
+	add shipyard "Greenrock"
+
+planet "Zug"
 	add shipyard "Greenrock"
