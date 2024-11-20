@@ -15,6 +15,6 @@ What should this ship be called
 
 What ships should have parts used to make this ship.
 
-** Reasons **
+**Reasons**
 
 Why is this a good idea?
