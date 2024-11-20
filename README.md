@@ -18,7 +18,7 @@ _The realistic spliced ship plugin_
 
 The following ships currently exist in this plugin:
 
-__Transports:__ Catamaran (Clipper + Shuttle)  
+__Transports:__ Catamaran (Clipper + Shuttle), Hare (Bounder + Scout)  
 __Space Liners:__ Star General (Star Queen + Rainmaker)  
 __Light Freighters:__ Ant (Aphid + Flea), Trident (Sunder kitbash)  
 __Heavy Freighters:__ Rawalpindi (Container Transport + Protector), Moissanite (Conglomerate + Corundum)  
