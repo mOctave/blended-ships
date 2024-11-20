@@ -15,7 +15,7 @@ ship "Hare" "Hare (Miner)"
 	outfits
 		"Mining Laser" 2
 
-		"Laser Turret"
+		"Mining Laser Turret"
 		"Tractor Beam"
 
 		"nGVF-AA Fuel Cell"
