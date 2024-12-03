@@ -25,6 +25,5 @@ jobs:
         show-progress: false
     - uses: codespell-project/actions-codespell@v2
       with:
-        path: ./*.md
         exclude_file: .codespell/exclude
         ignore_words_file: .codespell/ignored-words
