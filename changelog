@@ -1,6 +1,6 @@
 Version 1.1.0:
-  * Compatability:
-    * Rebalanced all ship masses in accordance with the chnages from ES 0.10.7
+  * Compatibility:
+    * Rebalanced all ship masses in accordance with the changes from ES 0.10.7
   * Other changes:
     * Added new images for all three pleasure craft
     * Removed the gun ports from the Hyperlight Shuttle and Partisan
@@ -32,8 +32,8 @@ Version 0.3.0:
     * Fixed issues where the Rawalpindi was labelled as a Bulk Freighter splice instead of a Container Transport one
     * Caught several typos
     * Replaced a whole bunch of images that had odd widths and heights
-  * Compatability:
-    * Switched over the all-content compatability file to use the latest Omnis sales
+  * Compatibility:
+    * Switched over the all-content compatibility file to use the latest Omnis sales
     * Wrote a plugin.txt file to fit with the newest standards
   * Other changes:
     * Reordered everything in ships.txt and fleets.txt
