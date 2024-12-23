@@ -7,12 +7,12 @@ _The realistic spliced ship plugin_
 “Persons attempting to find a motive in this ~~narrative~~ plugin will be prosecuted; persons attempting to find a moral in it will be banished; persons attempting to find a plot in it will be shot. Persons attempting to find some weird ships may succeed."  
 \- Apologies to Mark Twain
 
-![image](https://badgen.net/github/release/mOctave/blended-ships)
+![image](https://img.shields.io/github/v/release/mOctave/blended-ships?display_name=release)
+![image](https://img.shields.io/github/commits-since/mOctave/blended-ships/latest/main)
 ![image](https://badgen.net/github/license/mOctave/blended-ships)
 ![image](https://badgen.net/github/assets-dl/mOctave/blended-ships)
-![image](https://badgen.net/github/milestones/mOctave/blended-ships/1.2)
-![image](https://badgen.net/github/checks/mOctave/blended-ships/main/spellcheck)
-![image](https://badgen.net/github/checks/mOctave/blended-ships/main/test-parse?label=parsing)
+![image](https://img.shields.io/github/actions/workflow/status/mOctave/blended-ships/check.yml?label=check)
+![image](https://img.shields.io/github/actions/workflow/status/mOctave/blended-ships/ci.yml?label=CI)
 
 ## Ships
 
