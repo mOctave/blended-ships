@@ -1,3 +1,18 @@
+Version 1.2.0:
+  * New spliced ships:
+    * Hare
+    * Khosakaska
+    * Moissanite
+  * Compatibility:
+    * Added full Omnis support with a custom arena system
+  * Bugfixes:
+    * Fixed a bug where you could buy a Rawalpindi and not be able to outfit it
+    * Added missing explosions to ships
+    * Lots of typo and grammar fixes (TheGiraffe3, Pilcrow182)
+  * Backend:
+    * Got Codespell actually running properly
+    * Switched to using shields.io for README badges, since Badgen wasn't updating properly
+
 Version 1.1.0:
   * Compatibility:
     * Rebalanced all ship masses in accordance with the changes from ES 0.10.7
