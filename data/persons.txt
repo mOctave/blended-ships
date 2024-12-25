@@ -61,6 +61,7 @@ ship "Modified Eagle"
 		"outfit space" 1180
 		"weapon capacity" 511
 		"engine capacity" 219
+		"spinal mount" 1
 		weapon
 			"blast radius" 240
 			"shield damage" 2400
