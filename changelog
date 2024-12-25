@@ -12,6 +12,8 @@ Version 1.2.0:
   * Backend:
     * Got Codespell actually running properly
     * Switched to using shields.io for README badges, since Badgen wasn't updating properly
+  * Other changes:
+    * Finally got around to adding a person ship for myself
 
 Version 1.1.0:
   * Compatibility:
