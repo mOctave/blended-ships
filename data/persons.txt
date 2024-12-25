@@ -16,16 +16,17 @@ person "mOctave"
 	personality
 		surveillance unconstrained harvests
 	phrase
-		"My name's still not Erun, by the way."
-		"I don't play Endless Sky. I make plugins."
-		"Modern Blender is the best Blender."
-		"The hardest part of being a starship captain is coming up with witty things to say."
-		"You can only die... as many times as you want, actually. Save scumming is a thing."
-		"Hey, warp, don't make it bad. Take my PR and make it better."
-		"One of these days MZ is going to come back and look at the mess we've made..."
-		"Some captains prefer Leviathans, some prefer Falcons. I seem to be the only one who prefers the Eagle."
-		"Where do Marauders even come from, anyways?"
-		"Why does quantum mechanics work? Pug magic."
+		word
+			"My name's still not Erun, by the way."
+			"I don't play Endless Sky. I make plugins."
+			"Modern Blender is the best Blender."
+			"The hardest part of being a starship captain is coming up with witty things to say."
+			"You can only die... as many times as you want, actually. Save scumming is a thing."
+			"Hey, warp, don't make it bad. Take my PR and make it better."
+			"One of these days MZ is going to come back and look at the mess we've made..."
+			"Some captains prefer Leviathans, some prefer Falcons. I seem to be the only one who prefers the Eagle."
+			"Where do Marauders even come from, anyways?"
+			"Why does quantum mechanics work? Pug magic."
 	phrase
 		word
 			"Want to make Blended Ships better?"
@@ -56,7 +57,7 @@ ship "Modified Eagle"
 		"heat dissipation" .36
 		"fuel capacity" 5000
 		"cargo space" 20
-		"outfit space" 1080
+		"outfit space" 1180
 		"weapon capacity" 511
 		"engine capacity" 219
 		weapon
