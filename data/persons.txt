@@ -27,6 +27,7 @@ person "mOctave"
 			"Some captains prefer Leviathans, some prefer Falcons. I seem to be the only one who prefers the Eagle."
 			"Where do Marauders even come from, anyways?"
 			"Why does quantum mechanics work? Pug magic."
+			"No one ever notices the Santa hat on my Discord profile picture."
 	phrase
 		word
 			"Want to make Blended Ships better?"
