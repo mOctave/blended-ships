@@ -45,7 +45,7 @@ mission "mOctave Omnis Reset"
 	job
 	repeat
 	name "Reset mOctave Plugins"
-	description "Reset mOctave's plugin system to refill it with the latest content. You will have to leave this planet and land again TWICE for the changes to take effect."
+	description "Reset mOctave's plugin system to refill it with the latest content. You will have to leave this planet and land again for the changes to take effect."
 	source
 		government "Omnis" "Arena"
 	on offer
@@ -56,6 +56,7 @@ mission "Add to Omnis: Blended Ships"
 	repeat
 	landing
 	invisible
+	non-blocking
 	to offer
 		not "Add to Omnis: Blended Ships: offered"
 	on offer
