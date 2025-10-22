@@ -499,7 +499,7 @@ fleet "Bunrodea Defense"
 	add variant
 		"Odzutsu"
 		"Kaiken" 16
-		"Kumai"
+		"Kunai"
 	add variant
 		"Odzutsu"
 		"Kaiken" 16
@@ -516,7 +516,7 @@ fleet "Bunrodea Royal Guard"
 	add variant
 		"Odzutsu"
 		"Kaiken" 16
-		"Kumai"
+		"Kunai"
 	add variant
 		"Odzutsu"
 		"Kaiken" 16
