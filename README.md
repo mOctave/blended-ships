@@ -26,12 +26,10 @@ __Utility Ships:__ Grackle (Blackbird + Raven), Caterpillar (Bulk Freighter kitb
 __Interceptors:__ Hornet (Barb + Wasp)  
 __Light Warships:__ Khosakaska (Veusade + Vujlet)  
 __Medium Warships:__ Model 192 (Model 64 + Model 128), Sunthief (Firebird + Raven)  
-__Heavy Warships:__ Barquentine (Dreadnought kitbash), Eagle (Falcon + Leviathan), Woodchip (Palavret + Splinter)  
+__Heavy Warships:__ Barquentine (Dreadnought kitbash), Eagle (Falcon + Leviathan), Odzutsu (Ararebo + Chigiriki), Woodchip (Palavret + Splinter)  
 __Fighters:__ Model 2 (Model 8 kitbash)  
 __Drones:__ _none yet_  
 __Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle, Partisan
-
-More human and alien ships are planned.
 
 ## Corporations
 
