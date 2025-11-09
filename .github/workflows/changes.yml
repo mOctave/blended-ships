@@ -6,6 +6,8 @@ on:
         value: ${{ jobs.changed.outputs.workflows }}
       data_files:
         value: ${{ jobs.changed.outputs.data_files }}
+      assets:
+        value: ${{ jobs.changed.outputs.assets }}
       documentation:
         value: ${{ jobs.changed.outputs.documentation }}
 
@@ -16,6 +18,7 @@ jobs:
     outputs:
       workflows: ${{ steps.filter.outputs.workflows }}
       data_files: ${{ steps.filter.outputs.data_files }}
+      assets: ${{ steps.filter.outputs.assets }}
       documentation: ${{ steps.filter.outputs.documentation }}
 
     steps:

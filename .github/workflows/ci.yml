@@ -20,7 +20,7 @@ jobs:
     name: Data Files
     runs-on: windows-2022
     needs: changed
-    if: ${{ needs.changed.outputs.workflows == 'true' || needs.changed.outputs.data_files == 'true' }}
+    if: ${{ needs.changed.outputs.workflows == 'true' || needs.changed.outputs.data_files == 'true' || needs.changed.outputs.assets == 'true' }}
     steps:
     - uses: warp-core/endless-sky-test-parse@master
       with:
