@@ -124,7 +124,7 @@ mission "Trial by Fire 1"
 			``
 			`		Lt.Cmdr. Avery Blank`
 			`		Republic Navy`
-			`		Liasion Officer, PR/R&D`
+			`		Liaison Officer, PR/R&D`
 			``
 			`With that, he tips his cap to you and leaves you to stare at the abomination of a warship you've just been given.`
 				accept
@@ -174,7 +174,7 @@ mission "Trial by Fire 2"
 		dialog "You've returned to <planet>, but you haven't disabled the R.N.S. Kamet yet. Better head back to Fingol to finish the job."
 	on complete
 		conversation
-			`	You are met by an enthusiatic Lt.Cmdr. Blank when you land on <planet>.`
+			`	You are met by an enthusiastic Lt.Cmdr. Blank when you land on <planet>.`
 			`	"Great job, Captain <last>! That's exactly what we wanted to see. Now, we just need you to do it a couple more times and we're sure to have enough evidence of the Missile Frigate's capabilities."`
 			`	"See you in the spaceport bar when you're ready to continue - oh, and by the way, I've been authorized to give you a bonus of <payment>."`
 		payment 2000
@@ -254,7 +254,7 @@ mission "Trial by Fire 4"
 			`	Around you, the junior officers begin muttering about you until Lieutenant Quaker bangs her fist on the table again.`
 			`	"Look here, everyone. We've got a job to do, and by the stars we're going to do it. If our strongest warship is in the hands of a private captain, so be it. If the captain is a nuthead, so be it. But by God we are going to get our job done. Understood?"`
 			`	The muttering stops.`
-			`	"Good. Now, Captain <last>, here's the situation. Lt.Cmdr. Blank has seen fit to leave the base here on Geyser, seemingly abandonding testing. At the same time, we've received reports of a large pirate fleet blockading <system>. In this part of space, we're the strongest availble force to deal with the threat - it's either we wipe out those pirates or the fine people of <planet> spend two weeks waiting for a couple of Cruisers to get off their butts and mosey over there. Unfortunately - and this goes against all established Navy policy - we're going to need your help to deal with the pirates."`
+			`	"Good. Now, Captain <last>, here's the situation. Lt.Cmdr. Blank has seen fit to leave the base here on Geyser, seemingly abandoning testing. At the same time, we've received reports of a large pirate fleet blockading <system>. In this part of space, we're the strongest available force to deal with the threat - it's either we wipe out those pirates or the fine people of <planet> spend two weeks waiting for a couple of Cruisers to get off their butts and mosey over there. Unfortunately - and this goes against all established Navy policy - we're going to need your help to deal with the pirates."`
 			`	Quaker turns to the rest of the gathered officers, providing a concise but thorough briefing on the situation before dismissing them. Then, she turns back to you.`
 			`	"You better not let us down, you freewheeling Free Worlder. There's six hundred thousand people counting on you, and thanks to our glorious Republic's laws the only ship of yours you're allowed to bring to the fight is the <ship>."`
 			`	It looks like you're taking a trip to <planet>.`
@@ -289,7 +289,7 @@ mission "Trial by Fire 4"
 		conversation
 			`Landing on <planet>, you are met once again by Lt.Cmdr. Blank.`
 			`	"Congratulations, Captain <last>. That wasn't exactly the battle we had planned for your ship, but your performance with it should do just fine in persuading the Navy to adopt our design. Who knows, maybe in a few years you'll be able to buy it in a shipyard?`
-			`	"That leads me to the second thing I have to say, which is that, thanks to the, er, diplomatic embarassment of having an unlicensed Free Worlds captain destroying pirates on behalf of the Navy, I've managed to persuade certain individuals to grant you a Navy license. Use it well, Captain."`
+			`	"That leads me to the second thing I have to say, which is that, thanks to the, er, diplomatic embarrassment of having an unlicensed Free Worlds captain destroying pirates on behalf of the Navy, I've managed to persuade certain individuals to grant you a Navy license. Use it well, Captain."`
 			`	"With that, Blank turns sharply and starts issuing commands to a group of noncoms. You are left with your prototype ship and your unexpected new license."`
 		set "license: Navy"
 		"reputation: Republic" += 8
