@@ -1069,7 +1069,7 @@ ship "Rawalpindi" # Container Transport + Protector
 	explode "large explosion" 27
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
-	description "The Greenrock Shipyards Rawalpindi is the most heavily armed freighter money can buy. Rumour is that it's even used by some pirates as a raiding ship. It is named after the HMS Rawalpindi, a legendary armed merchant cruiser that was destroyed on Earth more than a thousand years ago. Although naming something after a destroyed ship does not seem like the best business model, you are assured that, since many people struggle to pronounce the name, let alone know of its namesake, there is very little impact on its sales."
+	description "The Greenrock Shipyards Rawalpindi is the most heavily armed freighter money can buy. Rumour is that it's even used by some pirates as a raiding ship. It is named after the HMS Rawalpindi, a legendary armed merchant cruiser that was destroyed on Earth more than a thousand years ago. Although naming something after a destroyed ship does not seem like the best business model, you are assured that this decision has very little impact on sales as most people struggle to pronounce the name, let alone know of its namesake."
 
 ship "Trident" # Sunder kitbash
 	sprite "ship/trident"
