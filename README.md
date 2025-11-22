@@ -35,6 +35,16 @@ __Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle, Partisan
 
 This plugin adds several new corporations: Greenrock Shipyard Ltd, Sirius Pyrotechnics Corporation, and Tomcat Shipping. The first is a legitimate company based on Greenrock that in no way endorses or supports pirates. The second, however, is a complete joke. They run a small shipyard on Relic where they produce the Grackle, a thoroughly insane ship. Tomcat Shipping was created to produce the Catamaran, and would like to assure you that they are not at all obsessed with cats and that the "ears" on the Catamaran are a necessary aspect of the ship for atmospheric stability. Finally, there is an unnamed engineering firm that built the Woodchip.
 
+## Compatibility
+
+Blended Ships should be compatible with all maintained mainstream plugins, including Omnis. However, there are some plugins which have name conflicts with this one. Known conflicts currently include:
+
+- Better Korath
+- Cromha Expansion
+- Edge of Endless
+- Sarcina
+- XtraStuf
+
 ## Contributing
 
 Please suggest new ships or report bugs in the issues here or on the Endless Sky Discord server.
