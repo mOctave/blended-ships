@@ -20,7 +20,7 @@ jobs:
     if: ${{ needs.changed.outputs.workflows == 'true' || needs.changed.outputs.data_files == 'true' || needs.changed.outputs.documentation == 'true' }}
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
       with:
         show-progress: false
     - uses: codespell-project/actions-codespell@v2
