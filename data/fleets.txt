@@ -39,7 +39,7 @@ fleet "Large Southern Merchants"
 		"Bastion"
 	add variant
 		"Rawalpindi 🇲"
-		"Sparrow 🇲"
+		"Sparrow"
 	add variant
 		"Rawalpindi 🇲"
 		"Grackle 🇲"
@@ -61,7 +61,7 @@ fleet "Small Core Merchants"
 	add variant 4
 		"Hare 🇲"
 	add variant 2
-		"Hare (Long Haul) 🇲"
+		"Hare 🇲 (Long Haul)"
 	add variant
 		"Hare 🇲"
 		"Bounder"
@@ -77,7 +77,7 @@ fleet "Large Core Merchants"
 		"Wasp (Proton)"
 		"Hornet 🇲"
 	add variant 5
-		"Container Transport 🇲"
+		"Container Transport"
 		"Hornet 🇲" 2
 	add variant 3
 		"Container Transport (Heavy)"

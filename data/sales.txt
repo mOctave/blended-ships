@@ -51,7 +51,7 @@ shipyard "Bunrodea Capital"
 
 shipyard "Greenrock"
 	"Eagle 🇲"
-	"Enforcer 🇲"
+	"Enforcer"
 	"Rawalpindi 🇲"
 
 shipyard "Hornet"
