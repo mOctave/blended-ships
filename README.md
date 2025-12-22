@@ -28,7 +28,7 @@ __Light Warships:__ Khosakaska (Veusade + Vujlet)
 __Medium Warships:__ Missile Frigate (Frigate + Rainmaker), Model 192 (Model 64 + Model 128), Sunthief (Firebird + Raven)  
 __Heavy Warships:__ Barquentine (Dreadnought kitbash), Eagle (Falcon + Leviathan), Odzutsu (Ararebo + Chigiriki), Woodchip (Palavret + Splinter)  
 __Fighters:__ Model 2 (Model 8 kitbash)  
-__Drones:__ _none yet_  
+__Drones:__ Voyager Drone (Mining Drone + Science Drone)  
 __Pleasure Craft:__ Flivver Lo-V, Hyperlight Shuttle, Partisan
 
 ## Corporations
