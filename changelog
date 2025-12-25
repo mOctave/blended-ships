@@ -1,3 +1,25 @@
+Version 1.3.0:
+  * New spliced ships:
+    * Missile Frigate
+    * Odzutsu
+    * Voyager Drone
+  * Content:
+    * New mission chain to obtain the Missile Frigate and Navy License
+    * Added custom hails and news referencing the ships
+  * Compatibility:
+    * Tried to resolve ship naming conflicts with display names. Old ships are deprecated but remain usable until 1.4.0.
+    * Improved Omnis support for updates and future compatibility with other plugins
+  * Bugfixes:
+    * Fixed the offer conditions for the Barquentine mission
+    * Fixed the longstanding bug with the Model 192 images
+  * Backend:
+    * Bumped actions/checkout twice (dependabot)
+    * Added asset parsing to CI run (TheGiraffe3)
+    * Tweak running conditions for tests
+  * Other changes:
+    * Officially made Sirius Pyrotechnics Sirius Pyrotechnics
+    * Improved the wording of the Rawalpindi description
+
 Version 1.2.0:
   * New spliced ships:
     * Hare
