@@ -1,3 +1,8 @@
+Version 1.3.2:
+  * Compatibility:
+    * Removed the about.txt file, as it has now deprecated for several years
+    * Added administrative costs to all ships
+
 Version 1.3.1:
   * Bugfixes:
     * Fixed the first Missile Frigate mission offering an invalid version of the ship (RedTechGamer236)
